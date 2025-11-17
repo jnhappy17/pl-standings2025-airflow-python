@@ -4,6 +4,11 @@ Update a table in a database in Azure Database for MySQL server with data collec
 ### Context
 Football (soccer) is the #1 sport in the UK, with the Premier League being one of the most important competitions of the year. It is imperative for sport betting parlors to display the standings of the competitions, which are useful to their patrons when placing  their bets. The goal of this project is to collect the raw football data from an API, extract the useful information and load it in a table, readily available to feed into a dashboard.
 
+### Overview
+This project involves:
+**ETL Pipelines**: Extracting, Transforming, and Loading data from source systems into the database.
+**Tools & Technologies**: Python, SQL, Airflow.
+
 ### Specifications
 **Data source**: REST API football-data  
 **Data quality**: filter the "useful" data out of the raw json file  
