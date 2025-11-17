@@ -16,5 +16,9 @@ This project involves:
 
 ### Architecture
 
-
 <img width="603" height="412" alt="PL STANDINGS Airflow" src="https://github.com/user-attachments/assets/4dda25d5-3499-4321-95dd-b44340c17b81" />
+
+
+### Output
+
+<img width="878" height="246" alt="Output" src="https://github.com/user-attachments/assets/34a4fed5-c7ec-4a29-ba0b-28cbb30756f3" />
