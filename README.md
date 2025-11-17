@@ -6,7 +6,7 @@ Football (soccer) is the #1 sport in the UK, with the Premier League being one o
 
 ### Overview
 This project involves:  
-**ETL Pipelines**: Extracting, Transforming, and Loading data from source systems into the database.
+**ETL Pipelines**: Extracting, Transforming, and Loading data from source systems into the database.  
 **Tools & Technologies**: Python, SQL, Airflow.
 
 ### Specifications
